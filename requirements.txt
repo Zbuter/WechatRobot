@@ -1,0 +1,11 @@
+lxml~=5.3.1
+pyyaml~=6.0.2
+requests~=2.32.3
+schedule~=1.2.2
+ipykernel
+PyMySQL~=1.1.1
+DBUtils~=3.1.0
+SQLAlchemy==2.0.40
+wcferry==39.4.2.2
+
+
