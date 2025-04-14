@@ -8,7 +8,7 @@
     - 按照步骤来，版本保持一致，少走弯路。
     - 按照步骤来，版本保持一致，少走弯路。
 1. 安装 Python>=3.9（Python 12 需要自己编译依赖，慎选），例如 [3.10.11](https://www.python.org/ftp/python/3.10.11/python-3.10.11-amd64.exe)
-2. 安装微信对应版本，可在 项目根目录下 找到。
+2. 安装微信对应版本(3.9.12.17)，可点击 [这里](https://github.com/lich0821/WeChatRobot/releases/download/v39.4.2.2/WeChatSetup-3.9.12.17.exe) 下载。
 3. 克隆项目
 4. 安装依赖
 ```sh
